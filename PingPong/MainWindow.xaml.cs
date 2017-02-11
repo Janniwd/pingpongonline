@@ -23,6 +23,7 @@ namespace PingPong
       public MainWindow()
       {
          InitializeComponent();
+         Console.Write("test");
       }
    }
 }
